@@ -5,7 +5,7 @@
 #   include textual
 class textual {
   package { 'Textual':
-    source   => 'http://inzain.net/assets/files/textual/Textual-d99a6ba.zip',
+    source   => 'https://d3pep6299hwdsh.cloudfront.net/puppet-textual/Textual-3.0.1.zip',
     provider => 'compressed_app'
   }
 }
