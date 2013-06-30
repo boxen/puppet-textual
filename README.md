@@ -1,4 +1,6 @@
-# Textual Puppet Module for Boxen [![Build Status](https://travis-ci.org/boxen/puppet-textual.png?branch=master)](https://travis-ci.org/boxen/puppet-textual)
+# Textual Puppet Module for Boxen 
+
+[![Build Status](https://travis-ci.org/boxen/puppet-textual.png?branch=master)](https://travis-ci.org/boxen/puppet-textual)
 
 Install [Textual](http://www.codeux.com/textual/), an IRC client for Mac OS X.
 
