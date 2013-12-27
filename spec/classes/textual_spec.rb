@@ -2,8 +2,8 @@ require 'spec_helper'
 
 describe 'textual' do
   it do
-    should contain_package('Textual-4.0.1').with({
-      :source   => 'https://d3pep6299hwdsh.cloudfront.net/puppet-textual/Textual-4.0.1.zip',
+    should contain_package('Textual-4.0.2').with({
+      :source   => 'https://d3pep6299hwdsh.cloudfront.net/puppet-textual/Textual-4.0.2.zip',
       :provider => 'compressed_app',
     })
   end
